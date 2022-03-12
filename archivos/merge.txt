@@ -1,0 +1,1 @@
+Se pudo subir la carpeta al repositorio remoto ya que no esta vacia 
