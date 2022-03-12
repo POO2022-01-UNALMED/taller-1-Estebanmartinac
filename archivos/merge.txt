@@ -1,3 +1,5 @@
 David Esteban Martin Acosta
 18
 Aprender los conceptos y aplicacion de la poo
+Se pudo subir la carpeta al repositorio remoto ya que no esta vacia 
+Porque se pueden ocasionar conflictos 
